@@ -16,3 +16,9 @@ A signal is the way information is transmitted through a medium. It can be class
 3. **Electrical** – Signals transmitted using electrical currents or voltages.
 4. **Optical (Light)** – Signals transmitted using light, often through fiber optics.
 5. **Radio Frequency (RF)** – Signals transmitted through electromagnetic waves in the radio frequency spectrum (e.g., Wi-Fi, cellular networks).
+### Electrical
+Electrical uses High Powered Electricity (AC).
+**Example** - Air Condition, TV, Refrigerator, Washing Machine etc.
+### Electronics
+Electronics devices uses low powered electricity (DC).
+**Example** - Mobile Phones, Laptop, Tabs, Desktop etc.
