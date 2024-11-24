@@ -5,3 +5,7 @@ Networking is the practice of connecting computers and other devices to share re
 It is the process of sending information from one place to another place using signals via a medium.
 ### 2. Information
 Information is data that has been processed or organized in a way that makes it meaningful and useful. Any type of Data like Text, Image, Audio & Video is called Information.
+### Medium
+A medium is the physical path or channel through which signals travel from one place to another. It can be classified into two types
+1. **Wired :** Signals travel through physical cables or wires.
+2. **Wireless :** Signals travel through the air, using electromagnetic waves.
