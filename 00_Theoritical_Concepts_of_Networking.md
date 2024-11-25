@@ -12,7 +12,7 @@ A medium is the physical path or channel through which signals travel from one p
 ### Signal 
 A signal is the way information is transmitted through a medium. It can be classified into the following types :
 1. **Analog** – Continuous signals that vary in amplitude or frequency (e.g., sound waves).
-2. **Digital** – Discrete signals represented by binary values (0s and 1s).
+2. **Digital** – Discrete signals represented by binary values (0s & 1s).
 3. **Electrical** – Signals transmitted using electrical currents or voltages.
 4. **Optical (Light)** – Signals transmitted using light, often through fiber optics.
 5. **Radio Frequency (RF)** – Signals transmitted through electromagnetic waves in the radio frequency spectrum (e.g., Wi-Fi, cellular networks).
